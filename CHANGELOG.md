@@ -1,19 +1,26 @@
 # CHANGELOG.md
 
+##### Update PDF file
+
+Re-purposed for VLNTß
+
 ## 1.0.3 (Dec 16, 2018)
 
 ##### Update PDF file
-* /Ellie.pdf
+
+- /Ellie.pdf
 
 ## 1.0.2 (Nov 19, 2018)
 
 ##### Update PDF file
-* /Ellie.pdf
+
+- /Ellie.pdf
 
 ## 1.0.1 (Nov 8, 2018)
 
 ##### Fix typo
-* /index.html
+
+- /index.html
 
 ## 1.0.0 (Oct 5, 2018)
 
