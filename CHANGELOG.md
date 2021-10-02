@@ -2,7 +2,7 @@
 
 ##### Update PDF file
 
-Re-purposed for VLNTß
+Re-purposed for VLNT
 
 ## 1.0.3 (Dec 16, 2018)
 
